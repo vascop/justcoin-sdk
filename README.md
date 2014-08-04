@@ -1,7 +1,13 @@
 # Justcoin Python API
 
+Install the sdk:
+
+	pip install justcoin-sdk
+
+
 Get your API key from [Justcoin](https://justcoin.com/client/#settings/apikeys) and then just do:
 
+	import justcoin-sdk
     api = JustcoinAPI("my-api-key")
     print api.list_markets()
 
