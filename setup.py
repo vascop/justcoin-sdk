@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='justcoin-sdk',
-    version='0.0.6',
+    version='0.0.8',
     packages=['justcoin',],
     license='MIT',
     description = "Python SDK for the Justcoin API",
