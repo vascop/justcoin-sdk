@@ -10,7 +10,7 @@ except ImportError:
 
 setup(
     name='justcoin-sdk',
-    version='0.0.2',
+    version='0.0.3',
     packages=['justcoin',],
     license='MIT',
     description = "Python SDK for the Justcoin API",
